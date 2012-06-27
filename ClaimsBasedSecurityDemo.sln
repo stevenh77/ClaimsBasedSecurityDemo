@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaimsBasedSecurityDemo", "ClaimsBasedSecurityDemo\ClaimsBasedSecurityDemo.csproj", "{4955D73D-F334-4C8C-A14A-D25077A7D469}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4955D73D-F334-4C8C-A14A-D25077A7D469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4955D73D-F334-4C8C-A14A-D25077A7D469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4955D73D-F334-4C8C-A14A-D25077A7D469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4955D73D-F334-4C8C-A14A-D25077A7D469}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
